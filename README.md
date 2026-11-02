@@ -13,6 +13,7 @@ clinical features driving it.
 ### What is here
 
 **[Health Cost Benchmark](https://github.com/FaraRahimi/health-cost-benchmark)** (November 2026)
+
 Which Dutch municipalities spend more on basic health insurance than their age and sex mix predicts, and does poorer health explain it? A reproducible Python pipeline on Dutch open data (Vektis, CBS) for all 342 municipalities, an age- and sex-adjusted benchmark, and a case-study report for an insurer's purchasing team. Main finding: 29 healthier-than-average municipalities cost €261M more than expected, with mental health as the main driver in most
 of the top 15.
 
@@ -21,7 +22,7 @@ More projects follow from the six-month plan I started in August 2026: SQL, stat
 ### Working with
 
 Python · SQL (Supabase, PostgreSQL) · R · LightGBM · XGBoost · Clinical-Longformer · SHAP
-· n8n · MCP servers · Playwright . pandas · matplotlib
+· n8n · MCP servers · Playwright . Pandas · Matplotlib
 
 ### Background
 
